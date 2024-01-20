@@ -1,0 +1,181 @@
+[
+  {
+    "keywords": ["college", "university", "campus"],
+    "responses": [
+      "Our college offers a wide range of undergraduate and graduate programs.",
+      "Our campus is equipped with state-of-the-art facilities for students.",
+      "We pride ourselves on providing quality education in a supportive environment."
+    ]
+  },
+  {
+    "keywords": ["admissions", "apply", "application"],
+    "responses": [
+      "To apply to our college, you can visit our official website and fill out the online application form.",
+      "The admissions process includes submitting  academic records, standardized test scores, and personal statement.",
+      "Feel free to reach out to our admissions office for any specific questions regarding the application process."
+    ]
+  },
+    {
+    "keywords": ["courses"],
+    "responses": [
+	"Available courses in SKNSCOE: \n1. Computer Science Engineering \n2. Electronics and telecommunication \n3.Mechanical Engineering \n4.Civil Engineering \n5.Electrical Engineering\n"
+	
+    ]
+  },
+
+  {
+    "keywords": [ "organization"],
+    "responses": [
+      "SKN Sinhgad College Of Engineering Korti,Pandharpur."
+    ]
+  },
+  {
+    "keywords": [ "principle"],
+    "responses": [
+	"Dr.Kailash Karande sir"
+    ]
+  },
+  {
+    "keywords": [ "your", "who"],
+    "responses": [
+      "I am AI based chatbot of SKNSCOE.",
+      "I am AI based chatbot designed by SKNSCOE students for FAQ answers"
+    ]
+  },
+  {
+    "keywords": ["tpo", "placement", "oraganizer"],
+    "responses": [
+      "Our college training and placement officer is DR. Sameer Katekar sir.",
+      "sawase sir whic provide mnc company for placement purpose.",
+      "Dr.Sameer Katekar sir."
+    ]
+  },
+  {
+    "keywords": ["faculty"],
+    "responses": [
+      "\nFaculties available in CSE Department:\nHead Of Department-->Prof.S.V.Pingale\n1.Prof.N.M.Sawant\n2.Prof.S.S.Ingole\n3.Prof.S.G.Linge\n4.Prof.B.B.Jagdale\n5.Prof.M.S.Koli"
+	  
+
+    ]
+  },
+  {
+  "keywords": ["seats available"],
+    "responses": [
+      "\ndepartment wise seats:\n computer science engineering       75\n Electronics and TeleCommunication  60\n Mechanical engineering       120\n Civil Engineering       60\n Electrical engineering       60"
+	  
+
+    ]
+  },
+  
+  
+   {
+  "keywords": ["apply"],
+    "responses": [
+      "To apply for a specific engineering program, you need to visit the official website of the college and fill out the online application form. Make sure to submit all the required documents and pay the application fee, if applicable.\ndepartment wise seats:\n computer science engineering       75\n Electronics and TeleCommunication  60\n Mechanical engineering       120\n Civil Engineering       60\n Electrical engineering       60"
+
+    ]
+  },
+     {
+  "keywords": ["documents"],
+    "responses": [
+      "You can typically upload the required documents, such as academic transcripts, entrance exam scores, and other relevant certificates, through the online application portal. Detailed instructions will be provided on the website."
+
+    ]
+  },
+     {
+  "keywords": ["scholarships"],
+    "responses": [
+	"The process for applying for scholarships typically involves completing a scholarship application form provided by the college. Additional documents such as essays, recommendation letters, or income certificates may also be required. The scholarship application deadlines and requirements will be communicated through the college's official channels."
+      
+    ]
+  },
+    {
+  "keywords": ["merit"],
+    "responses": [
+      "Yes, we offer merit-based scholarships for engineering students. These scholarships are awarded based on academic excellence, typically considering factors such as your performance in entrance exams and previous academic records."
+    ]
+  },
+     {
+  "keywords": ["cost"],
+    "responses": [
+      "The cost of tuition and fees for engineering programs may vary. It is advisable to refer to the college's official website or contact the tuition office for the most accurate and up-to-date information regarding tuition fees."
+	  ]
+  },
+    {
+  "keywords": ["payment"],
+    "responses": [
+	"Yes, our college often provides payment plans or installment options to assist students in managing their tuition payments. You can inquire about the available payment plans and options at the college's tuition office."
+          ]
+  },
+    {
+  "keywords": ["hostel","application"],
+    "responses": [
+	"Yes, we provide hostel facilities for engineering students",
+	"To apply for a hostel, you need to submit a separate hostel application form available on the college website or from the hostel office."
+          ]
+  },
+    {
+  "keywords": ["seperate"],
+    "responses": [
+	"Yes, we have separate hostels for male and female students to ensure a safe and comfortable living environment."
+          ]
+  },
+  {
+  "keywords": ["facilities"],
+    "responses": [
+	"Hostel rooms are typically furnished with beds, study tables, chairs, cupboards, and fans. However, specific amenities may vary depending on the hostel."
+          ]
+  },
+  {
+  "keywords": ["hostelfees"],
+    "responses": [
+	"The hostel fee varies depending on factors such as room type and amenities provided. Detailed information regarding hostel fees can be obtained from the hostel office or the college's official website."
+          ]
+  },
+  {
+  "keywords": ["separate","hostel"],
+    "responses": [
+	"Yes, the hostel fee is separate from tuition fees. It covers accommodation and related facilities.",
+      "Yes, the hostel fee is separate from tuition fees. It covers accommodation and related facilities.",
+      "Yes, the hostel fee is separate from tuition fees. It covers accommodation and related facilities."
+          ]
+  },
+  {
+  "keywords": ["additionalcharges"],
+    "responses": [
+	"Additional charges such as maintenance fees, security deposits, or charges for certain facilities (e.g., laundry) may apply. The hostel office will provide a breakdown of any additional charges, if applicable."
+          ]
+  },
+  {
+  "keywords": ["cse department"],
+    "responses": [
+      "4th floor of main building"
+
+          ]
+  },
+
+  {
+  "keywords": ["E&TC department"],
+    "responses": [
+      "3rd floor of main building"
+
+          ]
+  },
+  {
+  "keywords": ["mechanical department"],
+    "responses": [
+      "straight forword from main building and turn on the left side you get your destination",
+      "take the reference  of college map "
+
+          ]
+  },
+   {
+  "keywords": [""],
+    "responses": [
+      "Invalid Data"
+
+          ]
+  }
+]
+
+
